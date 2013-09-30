@@ -1,5 +1,5 @@
 {
-  "name": "earp",
+  "name": "earpjs",
   "version": "0.0.2",
   "description": "Layout manager for Titanium based on Handlebars",
   "main": "index.js",
